@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Destroyer</h1>
+<h1 align="center">Hi 👋, I'm Shrek</h1>
 <h3 align="center">I'm a developer from a unknown location</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=james0293&label=Profile%20views&color=0e75b6&style=flat" alt="james0293" /> </p>
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **HTML & CSS**
 
-- 📫 My Discord **Username#0006**
+- 📫 My Discord **Username#0079**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
