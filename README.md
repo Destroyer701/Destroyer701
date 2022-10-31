@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Shrek</h1>
+<h1 align="center">Hi 👋, I'm YellowBox</h1>
 <h3 align="center">I'm a developer from a unknown location</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=james0293&label=Profile%20views&color=0e75b6&style=flat" alt="james0293" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=james0293" alt="james0293" /></a> </p>
 
-- 🔭 I’m currently working on **A Website**
+- 🔭 I’m currently working on **A Discord Bot**
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **A Python project**
+- 👯 I’m looking to collaborate on **A Python Project**
 
-- 🤝 I’m looking for help with **HTML & CSS**
-
-- 📫 My Discord **Username#0079**
+- 📫 My Discord **Username#9876**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
